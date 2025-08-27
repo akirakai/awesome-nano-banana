@@ -1,5 +1,9 @@
 # awesome-nano-banana
 
+[![GitHub stars](https://img.shields.io/github/stars/akirakai/awesome-nano-banana?style=flat-square)](https://github.com/akirakai/awesome-nano-banana/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/akirakai/awesome-nano-banana?style=flat-square)](https://github.com/akirakai/awesome-nano-banana/commits)
+[![License](https://img.shields.io/github/license/akirakai/awesome-nano-banana?style=flat-square)](https://github.com/akirakai/awesome-nano-banana/blob/main/LICENSE)
+
 A curated list of **Nano Banana** (officially *Gemini 2.5 Flash Image Preview*) use-cases, prompts, and sources.  
 This model excels at **natural-language image editing**, **identity/likeness consistency**, **multi-step edits**, and **multi-image blending**.
 
