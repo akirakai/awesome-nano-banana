@@ -56,26 +56,6 @@ Nano Banana is a powerful image-editing model known for consistent identity pres
 | 31 | Banana cosplay costume editing | "Let this person wear a Nano Banana cosplay costume." | https://linux.do/t/topic/901564 |
 | 32 | Minecraft-style cozy interior | "Minecraft style, high resolution, clear pixel details; a warm and cozy wooden cabin interior with rain-blurred windows, bookshelves, potted plants, and warm lights. A blocky character sits at a wooden desk playing on a computer. Use another image as the monitor content." | https://linux.do/t/topic/901564 |
 | 33 | Minecraft post-rain morning with reflections | "Minecraft style, ultra-high resolution. Third-person close-up: after morning rain, the character stands on a grassy plain looking upward; distant pixel forest and misty mountains are clear. Foreground puddles reflect sky colors and morning glow with realistic reflections. Overall soft, transparent lighting." | https://linux.do/t/topic/901564 |
-| 34 | Change sky to sunset with dramatic clouds | "Replace the sky with a sunset full of dramatic clouds." | https://9to5google.com/2025/08/30/nano-banana-real-world-editing-demos/ |
-| 35 | Turn a daytime street into snowy night | "Turn this daytime street scene into a snowy night with lamplight reflections." | https://www.theverge.com/2025/08/31/nano-banana-image-editing-snow-night/ |
-| 36 | Family photo as renaissance painting | "Render this family photo as a renaissance-style oil painting." | https://arstechnica.com/gadgets/2025/09/google-nano-banana-hands-on/ |
-| 37 | Add glowing holographic smartphone | "Make the subject hold a glowing holographic smartphone." | https://www.androidauthority.com/nano-banana-holographic-smartphone-demo-2025-123456/ |
-| 38 | Clear tourists from landmark | "Remove all tourists from this landmark photo, leaving only the monument." | https://traveltech.com/blog/nano-banana-clean-landmark/ |
-| 39 | Add beach reflection in sunglasses | "Add a realistic beach scene reflected in the subject's sunglasses." | https://petapixel.com/2025/09/02/nano-banana-sunglasses-reflection/ |
-| 40 | Insert a rainbow after rain | "Insert a bright rainbow across the skyline after rain." | https://weatherai.org/nano-banana-rainbow-tutorial/ |
-| 41 | Turn child's drawing into 3D toy | "Transform this child's drawing into a 3D toy prototype." | https://makersnews.com/nano-banana-drawing-to-toy/ |
-| 42 | Blend cat face into latte foam art | "Blend my cat's face into the foam art of this latte." | https://coffeegeek.ai/nano-banana-latte-cat/ |
-| 43 | Selfie to comic-book cover | "Turn my selfie into a comic-book cover with dramatic title text." | https://comicsai.net/how-to-make-comic-cover-nano-banana/ |
-| 44 | Mini city inside glass bottle | "Place a miniature city inside a glass bottle on the table." | https://miniatureworlds.io/nano-banana-bottle-city/ |
-| 45 | Winter photo to summer beach | "Convert this snowy winter photo into a sunny beach scene." | https://seasonshift.ai/nano-banana-winter-to-summer/ |
-| 46 | Add fireworks to night sky | "Add colorful fireworks exploding in the night sky without changing existing lighting." | https://photofx.ai/nano-banana-fireworks-demo/ |
-| 47 | Merge friends into superhero poster | "Merge these three friends into a single superhero team movie poster." | https://heroic.ai/blog/superhero-team-poster-nano-banana/ |
-| 48 | Dog pilot in vintage airplane | "Make this dog wear aviator goggles and sit in a vintage airplane cockpit." | https://petsandplanes.com/nano-banana-dog-pilot/ |
-| 49 | Paint mural behind performer | "Paint a vibrant street-art mural on the blank wall behind the street performer." | https://streetart.ai/nano-banana-mural/ |
-| 50 | Kitchen into futuristic lab | "Transform this kitchen into a futuristic chrome laboratory." | https://futurehome.tech/nano-banana-kitchen-lab/ |
-| 51 | Portrait with underwater background | "Replace the portrait background with an underwater coral scene." | https://scubavision.ai/nano-banana-underwater-portrait/ |
-| 52 | Parked car to electric sports car | "Turn this parked car into a sleek electric sports car, keeping surroundings the same." | https://evinsider.com/nano-banana-car-transformation/ |
-| 53 | Add northern lights over mountains | "Add vivid northern lights over the mountain landscape." | https://auroraview.tech/nano-banana-northern-lights/ |
 
 ## Reproduction Notes
 
