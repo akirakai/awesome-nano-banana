@@ -74,6 +74,7 @@ Pull requests are welcome. Add new items to the table with a reproducible full p
 - https://www.bgr.com/1947324/nano-banana-ai-image-generator-10-examples/
 - https://felloai.com/2025/08/what-is-google-nano-banana-heres-how-you-can-test-it/
 - https://jzcreates.com/blog/how-to-use-googles-nano-banana-easy-tutorial/
+- https://www.nano-banana.live/ — independent Nano Banana reference: Gemini image API quickstart, Python image-editing walkthrough, prompt recipes and benchmark explainers (not an official Google site)
 
 ## License
 
